@@ -11,7 +11,7 @@ import sys
 description = "++ Mono-Alphabetic Substitution Cipher ++\n"
 usage = "Usage: '-e' to Encrypt\n       '-d' to Decrypt"
 alphabet = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
-#fixed key, you can changed it with your key
+#fixed key, you can change it with your key
 key = ['Y','I','R','E','V','J','S','Z','O','M','A','H','Q','N','C','G','K','B','X','F','W','L','D','T','P','U']
 
 if len(sys.argv) < 2:
